@@ -52,7 +52,7 @@ There are some other advantages to user mappings:
 *   Different users can have different mappings - one can have Caps Lock disabled but Num Lock enabled, another can have them the other way round
 *   Keys can be mapped on shared computers without affecting all users
 
-Originally developed at http://code.google.com/p/keymapper where it was popular with the shareware sites of the time
+Originally developed at http://code.google.com/p/keymapper where it was popular with the shareware sites of the time (2008!)
 
 ![numbers](km_numbers_2008.png)
 
